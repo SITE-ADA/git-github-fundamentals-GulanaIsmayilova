@@ -1,3 +1,4 @@
+Gulana_Ismayilova_14174_GulanaIsmayilova (https://github.com/GulanaIsmayilova)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
